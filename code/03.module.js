@@ -1,1 +1,1 @@
-require("./02.module.js");
+require('./02.module.js');
