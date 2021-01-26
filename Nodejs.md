@@ -35,3 +35,5 @@ module代表当前模块本身
 __filename是当前模块的完整路径
 
 __dirname是当前所在文件夹的完整路径
+
+注意exports里的东西和module.export里的东西指向的是同一个,module.exports = {name} 和exports.name指向的是同一个东西.

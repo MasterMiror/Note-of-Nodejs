@@ -4,6 +4,6 @@ var hello = require('./helloModule.js');
 //console.log(md);
 
 //console.log(math.add(123,456));
-hello.status();
+hello.status_lisa();
 
 //调用函数记得加()
