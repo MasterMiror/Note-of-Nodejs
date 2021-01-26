@@ -1,4 +1,4 @@
-console.log('模块引入示范 02.module');
+//console.log('模块引入示范 02.module');
 
 exports.x = '02.module中暴露的变量';
 
