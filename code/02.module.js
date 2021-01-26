@@ -1,6 +1,10 @@
 console.log('模块引入示范 02.module');
 
 exports.x = '02.module中暴露的变量';
+
+//module.exports.x = '02.module中暴露的变量';
+//和exports等价
+
 exports.y = '02.module中暴露的变量';
 
 exports.fun = function(){};
