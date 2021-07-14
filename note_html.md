@@ -161,3 +161,27 @@ p.center
 使用background属性在body标签中定义背景的颜色,颜色通常使用RGB或者十六进制来描述,亦可使用资源引用的方式引用图像作为背景.可以通过属性来设置图像铺展模式,就像是桌面背景设置一样.
 
 妈个鸡这个东西功能还挺强大的.
+
+颜色属性同样可以用于设置文本的颜色,标识方式和背景颜色的标识方式相同.
+
+文本对齐使用text-align属性来设置.
+
+文本缩进使用text-indent设置.单位是像素px.
+
+css的文本属性参见:https://www.runoob.com/css/css-text.html
+
+字体属性 normal italic oblique 正常 斜体 和倾斜
+
+字体大小使用font-size设置 单位是px(像素) 也可以使用em和百分比定义,1em=1px.
+
+*css链接样式*
+
+link(正常未访问过的) visited(访问过的) hover(鼠标悬停) active(鼠标点击)
+
+*css列表*
+
+使用css可以做出列表的的样式,可以是无序的也可以是有序的.
+
+css可以使用table定义表格
+
+*css盒子模型*
